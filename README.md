@@ -13,4 +13,4 @@ The project includes a clean UI, user authentication screens, and basic shopping
 HTML, CSS, JavaScript, Node.js (if backend used)
 
 ## 📸 Screenshot
-![ShopEasy Screenshot](SCREENSHOT/image.png)
+![ShopEasy Screenshot](screenshots/image.png)
